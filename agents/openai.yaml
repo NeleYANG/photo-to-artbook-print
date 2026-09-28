@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo to Art-book Print"
+  short_description: "Turn photos into quiet handmade art-book prints"
+  default_prompt: "Use $photo-to-artbook-print to transform my uploaded photograph into a quiet handmade art-book print illustration."
